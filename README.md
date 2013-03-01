@@ -1,4 +1,1 @@
-Website
-=======
-
-Static website for getcodestruck.com
+See gh-pages branch.
